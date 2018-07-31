@@ -17,3 +17,8 @@ Flatten() is added to make the outout from 3D to 1D
 
 Layer 5 and 6 : Dense Layers to process the output and finally pass the 10 labels for output and applying softmax activation
 
+**Results**
+
+Training Accuracy : `98.5%`
+
+Test Accuracy : `93%`
