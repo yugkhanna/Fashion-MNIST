@@ -22,3 +22,6 @@ Layer 5 and 6 : Dense Layers to process the output and finally pass the 10 label
 Training Accuracy : `98.5%`
 
 Test Accuracy : `93%`
+
+### Update (Jan 2019)
+Recurrent Model coming up!
